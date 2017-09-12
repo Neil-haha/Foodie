@@ -1,4 +1,5 @@
 #Foodie: a restaurant recommendation web app
+<br/>
 Foodie aims to use personalization to improve resturant search and recommendation based on search history and favorite record.
 
 #API Reference: All APIs are in the src/api directory. 
